@@ -44,13 +44,11 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🌩️ Streak Stats
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therezaqorbani/therezaqorbani/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therezaqorbani/therezaqorbani/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/therezaqorbani/therezaqorbani/output/github-snake.svg" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=therezaqorbani&theme=catppuccin-mocha&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
 </picture>
 
 </p>
@@ -60,7 +58,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therezaqorbani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=therezaqorbani&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" />
 </p>
 
 ---
